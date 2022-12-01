@@ -1,4 +1,4 @@
-# prework-study-guide
+# Prework Study Guide Webpage
 
 A study guide for course pre-work. A webpage where all of my prework notes and things I have learnt are in one place. It allowed me to code for the first time and debug along the way. It was also a chance to build my first website and along the way introduce me to various coding programs and how they interact with oneanother.
 
